@@ -29,3 +29,10 @@ tsc HelloWorld.ts
 ```
 node HelloWorld.js
 ```
+
+#### 安装ts-node
+在vscode中调试运行需要
+```
+npm install -g ts-node@8.5.4
+```
+
